@@ -1,4 +1,4 @@
-# SuperiorRAG
+# Rag Codex
 
 A simple search-and-answer tool built in Python. You give it some text files, ask a question, and it finds the most relevant parts and writes an answer. It runs on your own computer and needs **no API key**.
 
